@@ -1,1 +1,6 @@
-{"main":"repo123.raml","name":"repo123","classifier":"raml","tags":[]}
+{
+  "main": "repo123.raml",
+  "name": "repo123",
+  "classifier": "raml",
+  "tags": []
+}
